@@ -1,5 +1,18 @@
 {
-  "packageName": "com.moalaa.busira",
+  "//": "البيانات القديمة لضمان عمل النسخة المنشورة حالياً",
   "isPublished": true,
-  "playStoreLink": "https://play.google.com/store/apps/details?id=com.moalaa.busira"
+  "packageName": "com.moalaa.busira",
+  "playStoreLink": "https://play.google.com/store/apps/details?id=com.moalaa.busira",
+
+  "//": "البيانات الجديدة التي سيفهمها الكود المحدث فقط",
+  "isPublishedAndroid": true,
+  "isPublishedIOS": false,
+  "android": {
+    "packageName": "com.moalaa.busira",
+    "storeLink": "https://play.google.com/store/apps/details?id=com.moalaa.busira"
+  },
+  "ios": {
+    "bundleId": "com.moalaa.busira",
+    "storeLink": ""
+  }
 }
